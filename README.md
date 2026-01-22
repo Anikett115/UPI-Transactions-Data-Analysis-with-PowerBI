@@ -55,19 +55,27 @@ It focuses on user-driven analysis through dynamic visuals, bookmarks, navigator
 ## 📸 Dashboard Screenshots
 
 ### 🔹 Transaction Amount by Month (Line Chart)
-![Transaction Amount by Month - Line](screenshots/transaction-by-month-line-amount-2024.png)
+![Transaction Amount by Month - Line](Screenshots/transaction-by-month-line-amount-2024.png)
+
+---
 
 ### 🔹 Transaction Amount by Month (Column Chart)
-![Transaction Amount by Month - Column](screenshots/transaction-by-month-column-amount-2024.png)
+![Transaction Amount by Month - Column](Screenshots/transaction-by-month-column-amount-2024.png)
+
+---
 
 ### 🔹 Remaining Balance by Month (Line Chart)
-![Balance by Month - Line](screenshots/balance-by-month-line-2024.png)
+![Remaining Balance by Month - Line](Screenshots/balance-by-month-line-2024.png)
+
+---
 
 ### 🔹 Remaining Balance by Month (Column Chart)
-![Balance by Month - Column](screenshots/balance-by-month-column-2024.png)
+![Remaining Balance by Month - Column](Screenshots/balance-by-month-column-2024.png)
+
+---
 
 ### 🔹 City-wise Monthly Transactions (Matrix View)
-![City-wise Monthly Transactions](screenshots/city-wise-monthly-transactions-table.png)
+![City-wise Monthly Transactions](Screenshots/city-wise-monthly-transactions-table.png)
 
 ---
 
