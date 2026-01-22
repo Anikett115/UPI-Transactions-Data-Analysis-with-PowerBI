@@ -1,12 +1,12 @@
-# 📊 UPI Transactions Interactive Power BI Dashboard
+# UPI Transactions Interactive Power BI Dashboard
 
-## 🔍 Project Overview
+## Project Overview
 This project presents an interactive Power BI dashboard built using UPI transaction data sourced from an Excel file.
 It focuses on user-driven analysis through dynamic visuals, bookmarks, navigator buttons, and synchronized slicers.
 
 ---
 
-## 🛠️ Tools & Technologies
+## Tools & Technologies
 - Power BI Desktop & Power BI Service
 - Microsoft Excel (Data Source)
 - DAX
@@ -15,7 +15,7 @@ It focuses on user-driven analysis through dynamic visuals, bookmarks, navigator
 
 ---
 
-## ✨ Key Features
+## Key Features
 - **Interactive Visual Switching**
   - Toggle between line and column charts using bookmarks
   - Switch between transaction amount and remaining balance views
@@ -41,44 +41,44 @@ It focuses on user-driven analysis through dynamic visuals, bookmarks, navigator
 
 ---
 
-## 📁 Dataset
+## Dataset
 - Source: Excel file containing UPI transaction data
 - Used as a static data source for analysis and visualization
 
 ---
 
-## 🚀 Live Report (Power BI Service)
-🔗 https://app.powerbi.com/reportEmbed?reportId=d1e086df-419b-4c49-b1dd-3a548b20a0de
+## Live Report (Power BI Service)
+  https://app.powerbi.com/reportEmbed?reportId=d1e086df-419b-4c49-b1dd-3a548b20a0de
 
 ---
 
-## 📸 Dashboard Screenshots
+## Dashboard Screenshots
 
-### 🔹 Transaction Amount by Month (Line Chart)
+### Transaction Amount by Month (Line Chart)
 ![Transaction Amount by Month - Line](Screenshots/transaction-by-month-line-amount-2024.png)
 
 ---
 
-### 🔹 Transaction Amount by Month (Column Chart)
+### Transaction Amount by Month (Column Chart)
 ![Transaction Amount by Month - Column](Screenshots/transaction-by-month-column-amount-2024.png)
 
 ---
 
-### 🔹 Remaining Balance by Month (Line Chart)
+### Remaining Balance by Month (Line Chart)
 ![Remaining Balance by Month - Line](Screenshots/balance-by-month-line-2024.png)
 
 ---
 
-### 🔹 Remaining Balance by Month (Column Chart)
+### Remaining Balance by Month (Column Chart)
 ![Remaining Balance by Month - Column](Screenshots/balance-by-month-column-2024.png)
 
 ---
 
-### 🔹 City-wise Monthly Transactions (Matrix View)
+### City-wise Monthly Transactions (Matrix View)
 ![City-wise Monthly Transactions](Screenshots/city-wise-monthly-transactions-table.png)
 
 ---
 
-## 📌 Notes
+## Notes
 Due to GitHub file size limitations, the `.pbix` file is not included in this repository.
 The complete interactive report can be accessed using the Power BI Service link above.
